@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
+//springboot-mybatis
 /**
  * Created by wangzhiming on 2022/6/5 11:16
  */
